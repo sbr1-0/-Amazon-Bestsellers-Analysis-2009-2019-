@@ -17,4 +17,5 @@ This project was developed as part of a data science learning portfolio, emphasi
 - Seaborn (Visualization style)
 - Kaggle (Dataset source)
 - Codédex (Project idea)
+- Chat GPT (AI)
 - [Project source](https://www.codedex.io/projects/analyze-spreadsheet-data-with-pandas-chatgpt)
